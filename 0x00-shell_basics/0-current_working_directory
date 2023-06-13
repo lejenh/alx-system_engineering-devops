@@ -1,0 +1,10 @@
+#!/bin/bash
+pwd
+#!/bin/bash
+ls
+
+wq
+:wq
+#!/bin/bash
+pwd
+
